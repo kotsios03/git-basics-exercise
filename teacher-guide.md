@@ -20,3 +20,8 @@ Tips:
 - If students share computers, let them fork individually but pair on the same machine.
 - Encourage small, meaningful commits.
 - If conflict feels hard, demo once on projector first.
+- Collect from students (see CHECKLIST.md):
+  - PR URL to their fork
+  - Branch name (should be `feature/bio`)
+  - Last 5 commits (`git log --oneline --max-count 5`)
+  - Confirmation they pushed after the revert

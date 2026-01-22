@@ -8,3 +8,10 @@
 - [ ] I created a revert commit
 - [ ] I pushed all changes to my fork
 - [ ] I shared my PR link
+
+## What to turn in
+
+- PR URL:
+- Branch name (should be `feature/bio`):
+- Last 5 commits (run `git log --oneline --max-count 5` and paste):
+- Confirm you pushed after the revert: yes/no
