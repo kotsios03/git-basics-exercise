@@ -1,6 +1,7 @@
 # Setup — Install Git and publish to GitHub
 
 Follow these steps before starting the exercise.
+Use a terminal (Terminal on macOS/Linux, PowerShell or Git Bash on Windows) for the commands below.
 
 ## 1) Install Git
 
